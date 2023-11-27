@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bmo_bright.png</file>
+        <file>bmo_dark.png</file>
+        <file>gong.wav</file>
+        <file>bmo_orange.jpg</file>
+    </qresource>
+</RCC>
